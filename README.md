@@ -48,15 +48,6 @@
       <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
    </a>  
 
-- **Version Control System**:  
-
-   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-   </a>  
-   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-   </a>   
-
 - **Database**:  
 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -66,14 +57,18 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle Database" width="40" height="40"/>
    </a>  
 
-- **Cloud Platform**:  
+- **Other Platforms & Tools**:
+
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+   </a>  
+   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+   </a>  
 
    <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
       <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="40" height="40"/>
    </a>  
-
-- **Tools**:  
-
    <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" alt="Maven" width="40" height="40"/>
    </a>  
@@ -86,6 +81,8 @@
    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
    </a>   
+
+<br/> 
 
 - **Foundational Knowledge**:  
 
@@ -106,7 +103,7 @@
     <a href="mailto:naiksadichchha@gmail.com" target="_blank" style="margin-left: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40">
     </a>
-    <a href="https://leetcode.com/sadichchhaa" target="_blank" style="margin-left: 10px;">
+    <a href="https://leetcode.com/u/sadichchha" target="_blank" style="margin-left: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40">
     </a>
 </p>
